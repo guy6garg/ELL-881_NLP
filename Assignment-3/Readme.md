@@ -1,1 +1,1 @@
-This folder contains the problem statement of assignment-3(Assignment_3.pdf) and it's code and report.
+This folder contains the problem statement and solution of assignment 3
